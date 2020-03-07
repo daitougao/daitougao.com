@@ -362,7 +362,7 @@
 
 .fa-edit:before,
 .fa-pencil-square-o:before {
-  content: ""; }
+  content: "R"; }
 
 .fa-share-square-o:before {
   content: ""; }
@@ -902,7 +902,7 @@
   content: ""; }
 
 .fa-laptop:before {
-  content: ""; }
+  content: "S"; }
 
 .fa-tablet:before {
   content: ""; }
@@ -1120,7 +1120,7 @@
 
 .fa-dollar:before,
 .fa-usd:before {
-  content: ""; }
+  content: "V"; }
 
 .fa-rupee:before,
 .fa-inr:before {
@@ -1152,7 +1152,7 @@
   content: ""; }
 
 .fa-sort-alpha-asc:before {
-  content: ""; }
+  content: "L"; }
 
 .fa-sort-alpha-desc:before {
   content: ""; }
@@ -1338,7 +1338,7 @@
 
 .fa-mortar-board:before,
 .fa-graduation-cap:before {
-  content: ""; }
+  content: "T"; }
 
 .fa-yahoo:before {
   content: ""; }
@@ -1637,7 +1637,7 @@
   content: ""; }
 
 .fa-line-chart:before {
-  content: ""; }
+  content: "G"; }
 
 .fa-lastfm:before {
   content: ""; }
